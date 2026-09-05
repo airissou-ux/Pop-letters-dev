@@ -31,4 +31,4 @@ async function initApp() {
   }
 }
 
-const DICT_URL = "https://cdn.jsdelivr.net/gh/airissou-ux/pop-letters-dev@main/dico-fr.txt";
+const DICT_URL = "https://cdn.jsdelivr.net/gh/airissou-ux/pop-letters-dev@main/dico-fr-5-10.txt";
